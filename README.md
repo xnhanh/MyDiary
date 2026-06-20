@@ -1,7 +1,8 @@
 #  MyDiary
 
 ## Summary
-
+ **Notice:** I have forked this project and plan to continue its development. Just like the original author, I don't own an iOS device, so I will be focusing on optimizing it for Android :v
+-------------------
 I like Makoto Shinkai's (新海 誠) movies very much! This project is just trying to create the app - "My Diary" in "your name." on Android. In this movie, "My Diary" is an important app between Taki(瀧) and Mitsuha(三葉). As a fan, I think maybe I can implement this app. If you also like "your name.", please join me to finish the "My Diary", and let it become real.
 
 This project will need :
